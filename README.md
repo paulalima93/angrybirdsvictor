@@ -1,2 +1,2 @@
-# angrybirdsvictor
-para seguir com aluno após a aula de git
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
